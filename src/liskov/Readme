@@ -1,0 +1,4 @@
+Purpose of Liskov : Subtypes should retain the behaviour of main types
+                    Children should be like their parents for what they inherit
+
+“If an override method does nothing or throws and exception, you’re probably violating LSP.”
