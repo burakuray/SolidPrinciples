@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52a957c1-f915-4aa4-a2e2-8b94fb5e0097" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SolidPrinciples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleresponsibility/Readme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleresponsibility/bad/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleresponsibility/good/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleresponsibility/good/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleresponsibility/good/Mailer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleresponsibility/good/SalesTax.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SolidPrinciples" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Burak URAY" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\TEB\IdeaProjects\SolidPrinciples\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bkdSaBJadRxwCUdS0n8OhCOXUH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="singleresponsibility.bad" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="singleresponsibility.good.Demo" />
+      <module name="SolidPrinciples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="singleresponsibility.good.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52a957c1-f915-4aa4-a2e2-8b94fb5e0097" name="Default Changelist" comment="" />
+      <created>1589180025852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589180025852</updated>
+      <workItem from="1589180030129" duration="3204000" />
+      <workItem from="1589626290620" duration="1686000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2003" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589627163187">
+      <screen x="1280" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2003" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.984/1280.0.1920.1040@1280.0.1920.1040" timestamp="1589627163187" />
+    <state x="2045" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1589627366226">
+      <screen x="1280" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2045" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1280.984/1280.0.1920.1040@1280.0.1920.1040" timestamp="1589627366226" />
+    <state x="1865" y="114" key="CommitChangelistDialog2" timestamp="1589628091301">
+      <screen x="1280" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1865" y="114" key="CommitChangelistDialog2/0.0.1280.984/1280.0.1920.1040@1280.0.1920.1040" timestamp="1589628091301" />
+    <state x="2020" y="261" key="FileChooserDialogImpl" timestamp="1589180743317">
+      <screen x="1280" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2020" y="261" key="FileChooserDialogImpl/0.0.1280.984/1280.0.1920.1040@1280.0.1920.1040" timestamp="1589180743317" />
+    <state x="2106" y="413" key="Github.ShareDialog" timestamp="1589628159555">
+      <screen x="1280" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2106" y="413" key="Github.ShareDialog/0.0.1280.984/1280.0.1920.1040@1280.0.1920.1040" timestamp="1589628159555" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1589627985607">
+      <screen x="1280" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1280.984/1280.0.1920.1040@1280.0.1920.1040" timestamp="1589627985607" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1589627985607">
+      <screen x="1280" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1280.984/1280.0.1920.1040@1280.0.1920.1040" timestamp="1589627985607" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1589627985607">
+      <screen x="1280" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1280.984/1280.0.1920.1040@1280.0.1920.1040" timestamp="1589627985607" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1589627985607">
+      <screen x="1280" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1280.984/1280.0.1920.1040@1280.0.1920.1040" timestamp="1589627985607" />
+    <state x="1741" y="162" key="SettingsEditor" timestamp="1589180725897">
+      <screen x="1280" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1741" y="162" key="SettingsEditor/0.0.1280.984/1280.0.1920.1040@1280.0.1920.1040" timestamp="1589180725897" />
+    <state x="1936" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1589626311737">
+      <screen x="1280" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1936" y="344" key="com.intellij.ide.util.TipDialog/0.0.1280.984/1280.0.1920.1040@1280.0.1920.1040" timestamp="1589626311737" />
+    <state x="2070" y="311" key="svn.repositoryBrowser" timestamp="1589180676250">
+      <screen x="1280" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2070" y="311" key="svn.repositoryBrowser/0.0.1280.984/1280.0.1920.1040@1280.0.1920.1040" timestamp="1589180676250" />
+  </component>
+</project>

@@ -1,0 +1,6 @@
+Purpose of SRP : Each class and module in a program should focus on a single task
+
+Benefits:
+Reduces coupling (dependencies)
+Allows for classes to be used independently
+Assists with testing
