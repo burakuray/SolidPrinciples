@@ -1,0 +1,1 @@
+Purpose of Interface Segregation : Code should not be forced to depend on methods that it doesn’t use
